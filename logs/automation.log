@@ -1,0 +1,195 @@
+04/28/2025  07:46:02 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  07:46:02 AM: INFO: *** Launching Application ***
+04/28/2025  07:46:02 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  07:46:03 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  07:46:04 AM: INFO: *** Account Registration is Passed ***
+04/28/2025  07:46:04 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/28/2025  07:47:32 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  07:47:32 AM: INFO: *** Launching Application ***
+04/28/2025  07:47:32 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  07:47:33 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  07:47:44 AM: INFO: *** Account Registration is Failed ***
+04/28/2025  07:51:34 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  07:51:35 AM: INFO: *** Launching Application ***
+04/28/2025  07:51:35 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  07:51:35 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  07:51:46 AM: INFO: *** Account Registration is Failed ***
+04/28/2025  07:52:21 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  07:52:22 AM: INFO: *** Launching Application ***
+04/28/2025  07:52:22 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  07:52:22 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  07:52:23 AM: INFO: *** Account Registration is Passed ***
+04/28/2025  07:52:23 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/28/2025  07:55:23 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  07:55:24 AM: INFO: *** Launching Application ***
+04/28/2025  07:55:24 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  07:55:25 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  07:55:26 AM: INFO: *** Account Registration is Passed ***
+04/28/2025  07:55:26 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/28/2025  07:55:50 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  07:55:50 AM: INFO: *** Launching Application ***
+04/28/2025  07:55:50 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  07:55:51 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  07:56:32 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  07:56:32 AM: INFO: *** Launching Application ***
+04/28/2025  07:56:33 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  07:56:33 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  07:56:44 AM: ERROR: *** Account Registration is Failed ***
+04/28/2025  08:05:41 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  08:05:41 AM: INFO: *** Launching Application ***
+04/28/2025  08:05:41 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  08:05:42 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  08:05:43 AM: INFO: *** Account Registration is Passed ***
+04/28/2025  08:05:43 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/28/2025  08:06:56 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  08:06:57 AM: INFO: *** Launching Application ***
+04/28/2025  08:06:57 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  08:06:58 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  08:06:59 AM: INFO: *** Account Registration is Passed ***
+04/28/2025  08:06:59 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/28/2025  08:07:28 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  08:07:29 AM: INFO: *** Launching Application ***
+04/28/2025  08:07:29 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  08:07:30 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  08:07:41 AM: ERROR: *** Account Registration is Failed ***
+04/28/2025  08:08:15 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  08:08:16 AM: INFO: *** Launching Application ***
+04/28/2025  08:08:17 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  08:08:17 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  08:08:28 AM: ERROR: *** Account Registration is Failed ***
+04/28/2025  08:11:39 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  08:11:40 AM: INFO: *** Launching Application ***
+04/28/2025  08:11:40 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  08:11:40 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  08:11:51 AM: ERROR: *** Account Registration is Failed ***
+04/28/2025  08:12:38 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  08:12:38 AM: INFO: *** Launching Application ***
+04/28/2025  08:12:38 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  08:12:39 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  08:12:50 AM: ERROR: *** Account Registration is Failed ***
+04/28/2025  08:17:03 AM: INFO: *** test_001_AccountRegistration Started ***
+04/28/2025  08:17:04 AM: INFO: *** Launching Application ***
+04/28/2025  08:17:04 AM: INFO: *** Clicking My Account --> Register ***
+04/28/2025  08:17:05 AM: INFO: *** Providing Customer details for Registration ***
+04/28/2025  08:17:06 AM: INFO: *** Account Registration is Passed ***
+04/28/2025  08:17:06 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/29/2025  07:19:01 AM: INFO: ********* starting of test_002_login *********
+04/29/2025  07:19:02 AM: INFO: *** Launching Application ***
+04/29/2025  07:19:03 AM: INFO: *** Login Test Passed ***
+04/29/2025  07:19:03 AM: INFO: ********* End of test_002_login *********
+04/29/2025  07:20:26 AM: INFO: *** test_001_AccountRegistration Started ***
+04/29/2025  07:20:26 AM: INFO: *** test_001_AccountRegistration Started ***
+04/29/2025  07:20:27 AM: INFO: *** Launching Application ***
+04/29/2025  07:20:27 AM: INFO: *** Launching Application ***
+04/29/2025  07:20:27 AM: INFO: *** Clicking My Account --> Register ***
+04/29/2025  07:20:27 AM: INFO: *** Clicking My Account --> Register ***
+04/29/2025  07:20:27 AM: INFO: *** Providing Customer details for Registration ***
+04/29/2025  07:20:27 AM: INFO: *** Providing Customer details for Registration ***
+04/29/2025  07:20:28 AM: INFO: *** Account Registration is Passed ***
+04/29/2025  07:20:28 AM: INFO: *** Account Registration is Passed ***
+04/29/2025  07:20:28 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/29/2025  07:20:28 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/29/2025  07:20:32 AM: INFO: ********* starting of test_002_login *********
+04/29/2025  07:20:32 AM: INFO: ********* starting of test_002_login *********
+04/29/2025  07:20:33 AM: INFO: *** Launching Application ***
+04/29/2025  07:20:33 AM: INFO: *** Launching Application ***
+04/29/2025  07:20:34 AM: INFO: *** Login Test Passed ***
+04/29/2025  07:20:34 AM: INFO: *** Login Test Passed ***
+04/29/2025  07:20:34 AM: INFO: ********* End of test_002_login *********
+04/29/2025  07:20:34 AM: INFO: ********* End of test_002_login *********
+04/29/2025  07:50:08 AM: INFO: ********* starting of test_003_login_ddt *********
+04/29/2025  07:50:08 AM: INFO: *** Launching Application ***
+04/29/2025  07:54:18 AM: INFO: ********* starting of test_003_login_ddt *********
+04/29/2025  07:54:18 AM: INFO: *** Launching Application ***
+04/29/2025  07:55:58 AM: INFO: ********* starting of test_003_login_ddt *********
+04/29/2025  07:55:59 AM: INFO: *** Launching Application ***
+04/29/2025  07:57:26 AM: INFO: ********* starting of test_003_login_ddt *********
+04/29/2025  07:57:27 AM: INFO: *** Launching Application ***
+04/29/2025  07:58:12 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/29/2025  08:02:56 AM: INFO: ********* starting of test_002_login *********
+04/29/2025  08:02:56 AM: INFO: ********* starting of test_002_login *********
+04/29/2025  08:02:56 AM: INFO: ********* starting of test_002_login *********
+04/29/2025  08:02:58 AM: INFO: *** Launching Application ***
+04/29/2025  08:02:58 AM: INFO: *** Launching Application ***
+04/29/2025  08:02:58 AM: INFO: *** Launching Application ***
+04/29/2025  08:02:59 AM: INFO: *** Login Test Passed ***
+04/29/2025  08:02:59 AM: INFO: *** Login Test Passed ***
+04/29/2025  08:02:59 AM: INFO: *** Login Test Passed ***
+04/29/2025  08:02:59 AM: INFO: ********* End of test_002_login *********
+04/29/2025  08:02:59 AM: INFO: ********* End of test_002_login *********
+04/29/2025  08:02:59 AM: INFO: ********* End of test_002_login *********
+04/29/2025  08:03:04 AM: INFO: ********* starting of test_003_login_ddt *********
+04/29/2025  08:03:04 AM: INFO: ********* starting of test_003_login_ddt *********
+04/29/2025  08:03:04 AM: INFO: ********* starting of test_003_login_ddt *********
+04/29/2025  08:03:05 AM: INFO: *** Launching Application ***
+04/29/2025  08:03:05 AM: INFO: *** Launching Application ***
+04/29/2025  08:03:05 AM: INFO: *** Launching Application ***
+04/29/2025  08:03:50 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/29/2025  08:03:50 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/29/2025  08:03:50 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/30/2025  07:18:26 AM: INFO: ********* starting of test_002_login *********
+04/30/2025  07:18:26 AM: INFO: ********* starting of test_002_login *********
+04/30/2025  07:18:26 AM: INFO: ********* starting of test_002_login *********
+04/30/2025  07:18:26 AM: INFO: *** Launching Application ***
+04/30/2025  07:18:26 AM: INFO: *** Launching Application ***
+04/30/2025  07:18:26 AM: INFO: *** Launching Application ***
+04/30/2025  07:18:28 AM: INFO: *** Login Test Passed ***
+04/30/2025  07:18:28 AM: INFO: *** Login Test Passed ***
+04/30/2025  07:18:28 AM: INFO: *** Login Test Passed ***
+04/30/2025  07:18:28 AM: INFO: ********* End of test_002_login *********
+04/30/2025  07:18:28 AM: INFO: ********* End of test_002_login *********
+04/30/2025  07:18:28 AM: INFO: ********* End of test_002_login *********
+04/30/2025  07:18:32 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:18:32 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:18:32 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:18:33 AM: INFO: *** Launching Application ***
+04/30/2025  07:18:33 AM: INFO: *** Launching Application ***
+04/30/2025  07:18:33 AM: INFO: *** Launching Application ***
+04/30/2025  07:19:19 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/30/2025  07:19:19 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/30/2025  07:19:19 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/30/2025  07:21:21 AM: INFO: ********* starting of test_002_login *********
+04/30/2025  07:21:21 AM: INFO: ********* starting of test_002_login *********
+04/30/2025  07:21:21 AM: INFO: ********* starting of test_002_login *********
+04/30/2025  07:21:21 AM: INFO: *** Launching Application ***
+04/30/2025  07:21:21 AM: INFO: *** Launching Application ***
+04/30/2025  07:21:21 AM: INFO: *** Launching Application ***
+04/30/2025  07:21:23 AM: INFO: *** Login Test Passed ***
+04/30/2025  07:21:23 AM: INFO: *** Login Test Passed ***
+04/30/2025  07:21:23 AM: INFO: *** Login Test Passed ***
+04/30/2025  07:21:23 AM: INFO: ********* End of test_002_login *********
+04/30/2025  07:21:23 AM: INFO: ********* End of test_002_login *********
+04/30/2025  07:21:23 AM: INFO: ********* End of test_002_login *********
+04/30/2025  07:21:27 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:21:27 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:21:27 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:21:28 AM: INFO: *** Launching Application ***
+04/30/2025  07:21:28 AM: INFO: *** Launching Application ***
+04/30/2025  07:21:28 AM: INFO: *** Launching Application ***
+04/30/2025  07:22:34 AM: INFO: *** test_001_AccountRegistration Started ***
+04/30/2025  07:22:34 AM: INFO: *** test_001_AccountRegistration Started ***
+04/30/2025  07:22:34 AM: INFO: *** test_001_AccountRegistration Started ***
+04/30/2025  07:22:35 AM: INFO: *** Launching Application ***
+04/30/2025  07:22:35 AM: INFO: *** Launching Application ***
+04/30/2025  07:22:35 AM: INFO: *** Launching Application ***
+04/30/2025  07:22:35 AM: INFO: *** Clicking My Account --> Register ***
+04/30/2025  07:22:35 AM: INFO: *** Clicking My Account --> Register ***
+04/30/2025  07:22:35 AM: INFO: *** Clicking My Account --> Register ***
+04/30/2025  07:22:36 AM: INFO: *** Providing Customer details for Registration ***
+04/30/2025  07:22:36 AM: INFO: *** Providing Customer details for Registration ***
+04/30/2025  07:22:36 AM: INFO: *** Providing Customer details for Registration ***
+04/30/2025  07:22:37 AM: INFO: *** Account Registration is Passed ***
+04/30/2025  07:22:37 AM: INFO: *** Account Registration is Passed ***
+04/30/2025  07:22:37 AM: INFO: *** Account Registration is Passed ***
+04/30/2025  07:22:37 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/30/2025  07:22:37 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/30/2025  07:22:37 AM: INFO: *** test_001_AccountRegistration Finished ***
+04/30/2025  07:22:41 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:22:41 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:22:41 AM: INFO: ********* starting of test_003_login_ddt *********
+04/30/2025  07:22:42 AM: INFO: *** Launching Application ***
+04/30/2025  07:22:42 AM: INFO: *** Launching Application ***
+04/30/2025  07:22:42 AM: INFO: *** Launching Application ***
+04/30/2025  07:23:27 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/30/2025  07:23:27 AM: INFO: ********* Ending of test_003_login_ddt *********
+04/30/2025  07:23:27 AM: INFO: ********* Ending of test_003_login_ddt *********
