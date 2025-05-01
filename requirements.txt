@@ -7,4 +7,4 @@ openpyxl
 matplotlib
 pandas
 numpy
-
+requests

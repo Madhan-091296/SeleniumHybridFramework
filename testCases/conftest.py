@@ -1,8 +1,38 @@
-import pytest,os
+import os
+import time
+import pytest
+import requests
+import subprocess
+from datetime import datetime
 from selenium import webdriver
 from pytest_metadata.plugin import metadata_key
-from  datetime import datetime
 from utilities.readProperties import ReadConfig
+
+def wait_for_grid(url="http://localhost:4444/wd/hub", timeout=60):
+   start_time = time.time()
+   while time.time() - start_time < timeout:
+       try:
+           response = requests.get(url + "/status")
+           if response.status_code == 200 and response.json()["value"]["ready"]:
+               return True
+       except Exception:
+           pass
+       time.sleep(1)
+   raise Exception("Selenium Grid did not become ready in time")
+
+@pytest.fixture(scope="session", autouse=True)
+def setup_environment():
+  # Install required packages
+   subprocess.run(["pip", "install", "-r", "requirements.txt"], check=True)
+  # Start Docker containers
+   subprocess.run(["docker-compose", "up", "-d"], check=True)
+   # Wait for Selenium Grid to be ready
+   wait_for_grid(url="http://localhost:4444/wd/hub")
+   yield
+   # Teardown after tests
+   subprocess.run(["docker-compose", "down"], check=True)
+
+
 @pytest.fixture()
 def setup(browser_platform):
     baseenv = ReadConfig.getEnvironment()
@@ -43,7 +73,7 @@ def setup(browser_platform):
 
 def pytest_addoption(parser):
   parser.addoption("--browser", default="chrome", choices=["chrome", "edge", "firefox"], help = "Browser to test")
-  parser.addoption("--os", default="windows", choices=["windows", "mac", "linux"], help = "Operating system to test")
+  parser.addoption("--os", default="linux", choices=["windows", "mac", "linux"], help = "Operating system to test")
 
 
 @pytest.fixture()
