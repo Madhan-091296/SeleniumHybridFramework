@@ -32,6 +32,7 @@ def pytest_configure(config):
    config.stash[metadata_key]['Project Name'] = 'TutorialNinja'
    config.stash[metadata_key]['Module Name'] = 'CustRegistration'
    config.stash[metadata_key]['Tester Name'] = 'KMR'
+
 # It is hook for delete/Modify Environment info to HTML Report
 @pytest.hookimpl(optionalhook=True)
 # @pytest.mark.optionalhook   # Deprecated
