@@ -15,7 +15,7 @@ def setup(browser_platform):
         }
         if browser not in options:
             raise ValueError(f"Unsupported browser: {browser}")
-        platform_mapping = {"windows": "WIN10", "mac": "MAC", "linux": "LINUX"}
+        platform_mapping = {"windows": "WIN11", "mac": "MAC", "linux": "LINUX"}
         platform_name = platform_mapping.get(platform)
         if not platform_name:
             raise ValueError(f"Unsupported platform: {platform}")
